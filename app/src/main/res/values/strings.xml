@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">hftm_mobilde_development_course</string>
+    <string name="app_name">Hello World</string>
+    <string name="main_titel">Das ist die Main Activity</string>
+    <string name="main_output_text">Hallo %1$s wie geht es dir?</string>
 </resources>
